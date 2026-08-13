@@ -24,11 +24,10 @@ Enter x1: 6
 Enter y1: 7
 Enter x2: 6
 Enter y2: 7
-```
 The distance between the two points is: 0.0
-
+```
 ## Author
-
+```
 Name: Bea Aurealiz C. Tan
-
 Section: 8-Mahogany
+```
