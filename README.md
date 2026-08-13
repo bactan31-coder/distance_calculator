@@ -29,4 +29,5 @@ The distance between the two points is: 0.0
 
 ## Author
 Name: Bea Aurealiz C. Tan
+
 Section: 8-Mahogany
