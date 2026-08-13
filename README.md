@@ -21,9 +21,9 @@ This program calculates the distance between two points on a coordinate plane, (
 ## Sample Output
 ```
 Enter x1: 6
-Enter y1: 7
+Enter y1: 9
 Enter x2: 6
-Enter y2: 7
+Enter y2: 9
 The distance between the two points is: 0.0
 ```
 ## Author
